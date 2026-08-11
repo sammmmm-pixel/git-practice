@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello git
 this is my second line
 final day2
 feature work
+=======
+hello this is file1
+>>>>>>> be4d45dc38f4b0426f42de12a5b288fda4571450
